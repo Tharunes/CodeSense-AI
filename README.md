@@ -1,5 +1,7 @@
-# CodeSense-AI
-AI based code Explainer for Beginners
+
+## CODESENSE AI 
+![App Preview](https://github.com/Tharunes/CodeSense-AI/blob/main/c99b11bc-0928-4d11-9b55-e8fa68e84d65.png?raw=true)
+
 
 ## 🎥 Demo Video
 
